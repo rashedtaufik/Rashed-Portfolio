@@ -1,0 +1,26 @@
+body{
+                    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+                    color: orange;
+}
+section{
+                    display: flex;
+}
+.half-width{
+                    width: 50%;
+                    padding-left: 2%;
+}
+.half-width img{
+                    width: 40%;
+}
+.link-button{
+                    text-decoration: none;
+                    color: orange;
+                    background-image: linear-gradient(orange yellow);
+                    padding: 10px 40px;
+                    border-radius: 5px;
+                    font: 800;
+}
+
+https://jhankarphero.github.io/developer-portfolio/index.html
